@@ -1,0 +1,74 @@
+
+body {
+	background-color: #272727 ;
+	font-size: 90% ;
+	margin: 0px 0px 0px 0px ;
+	padding: 0px 0px 0px 0px ;
+	}
+	
+h1 {
+	background-color: #000000 ;
+	background-image: url( "../images/global/site_logo.gif" ) ;
+	background-position: 17px 50% ;
+	background-repeat: no-repeat ;
+	color: #FFFFFF ;
+	font-size: 2.0em ;
+	font-weight: 400 ;
+	line-height: 1em ;
+	margin: 0px 0px 0px 0px ;
+	padding: .7em 1em .7em 100px ;
+	}
+	
+ul#primarynav {
+	background-color: #8ABC00 ;
+	background-image: url( "../images/global/primary_nav_background.gif" ) ;
+	background-position: left bottom ;
+	background-repeat: repeat-x ;
+	border-top: 1px solid #A7CD40 ;
+	font-size: .8em ;
+	height: 2.5em ;
+	list-style-type: none ;
+	margin: 0px 0px 0px 0px ;
+	padding: 0px 0px 0px 17px ;
+	}
+	
+ul#primarynav li {
+	background-image: url( "../images/global/primary_nav_pipe.gif" ) ;
+	background-position: left top ;
+	background-repeat: repeat-y ;
+	float: left ;
+	line-height: 2.5em ;
+	margin: 0px 0px 0px 0px ;
+	padding: 0px 0px 0px 0px ;
+	}
+	
+ul#primarynav li a {
+	color: #FFFFFF ;
+	display: block ;
+	line-height: 2.5em ;
+	padding: 0em 1.5em 0em 1.5em ;
+	text-decoration: none ;
+	}
+	
+div#sitecontent {
+	background-color: #FFFFFF ;
+	background-image: url( "../images/global/content_background.gif" ) ;
+	background-position: left top ;
+	background-repeat: repeat-x ;
+	padding: 23px 50px 100px 17px ;
+	}
+	
+div#content {
+	width: 775px ;
+	}
+	
+div#sitefooter {
+	color: #BFBFBF ;
+	font-size: 70% ;
+	padding: 15px 50px 100px 17px ;
+	}
+	
+div#sitefooter p {
+	line-height: 1.2em ;
+	margin: 0px 0px .3em 0px ;
+	}

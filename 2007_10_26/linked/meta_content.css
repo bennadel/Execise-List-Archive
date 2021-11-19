@@ -1,0 +1,39 @@
+
+div.formfield {
+	clear: both ;
+	padding: .4em 0px .4em 0px ;
+	width: 100% ;
+	}
+
+div.formfield label {
+	display: block ;
+	float: left ;
+	font-weight: bold ;
+	padding: 0px 2% 0px 0px ;
+	text-align: right ;
+	width: 28% ;
+	}
+
+div.formfield input {
+	background-color: #F5F5F5 ;
+	border: 1px solid #8ABC00 ;
+	float: left ;
+	font-size: 100% ;
+	padding: 3px 3px 3px 3px ;
+	width: 65% ;
+	}
+	
+div.formfield p {
+	color: #666666 ;
+	clear: both ;
+	font-size: 80% ;
+	font-style: italic ;
+	margin: 0px 0px 0px 30% ;
+	width: 70% ;
+	}
+	
+div.buttonfield {
+	clear: both ;
+	margin: 0px 0px 0px 30% ;
+	padding: .4em 0px .4em 0px ;
+	}

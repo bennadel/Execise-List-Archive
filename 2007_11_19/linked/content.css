@@ -1,0 +1,45 @@
+
+body {
+	color: #272727 ;
+	font-family: verdana ;	
+	}
+	
+/* Reset elements. */
+
+h1, 
+h2,
+h3, 
+h4, 
+h5, 
+p,
+ul,
+ol,
+form {
+	line-height: 1.3em ;
+	margin-bottom: 1.4em ;
+	margin-top: 0em ;
+	}
+	
+a {
+	color: #8ABC00 ;
+	}
+	
+h2 {
+	color: #8ABC00 ;
+	font-size: 1.4em ;
+	font-weight: 400 ;
+	line-height: 1em ;
+	margin-bottom: 1em ;
+	}
+	
+h3 {
+	font-size: 1.1em ;
+	font-weight: 800 ;
+	margin-bottom: .25em ;
+	}
+	
+p.strongwarning {
+	color: #FF3333 ;
+	font-style: italic ;
+	font-weight: 800 ;
+	}
